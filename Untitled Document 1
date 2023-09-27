@@ -1,0 +1,23 @@
+{
+  "libros": [
+    {
+      "nombre": "La vaca lola",
+      "tipo": "video animacion",
+      "autor": "Violeta",
+      "id": 1
+    },
+    {
+      "nombre": "El piojo loco",
+      "tipo": "video animacion",
+      "autor": "Angie",
+      "id": 2
+    },
+    {
+      "nombre": "La vieja loca del lado",
+      "tipo": "Video Animado",
+      "author": "Esteban",
+      "id": 3
+    }
+  ]
+}
+
